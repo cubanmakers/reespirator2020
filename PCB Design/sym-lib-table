@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name REES-eagle-import)(type Legacy)(uri ${KIPRJMOD}/REES-eagle-import.lib)(options "")(descr ""))
+  (lib (name REES-rescue)(type Legacy)(uri ${KIPRJMOD}/REES-rescue.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri /home/antonio/Kicad/libraries/arduino.lib)(options "")(descr ""))
+)
