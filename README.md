@@ -8,7 +8,8 @@ If you want to access the **source files**, [click here](https://gitlab.com/coro
 
 * Iván Torres - Diseño PCB y documentación (@itorres1)
 * Antonio Ruiz - Diseño PCB (@antoniorn1)
-* Joaquín Cubillo - BOM y documentación
+* Joaquín Cubillo - BOM y documentación (@joaquincubillo)
+* Fernando Peral (@fperal)
 
 # Versión penúltima, se irá actualizando conforme avance el proyecto.
 
