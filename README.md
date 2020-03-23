@@ -4,6 +4,12 @@ A collection of resources for the Reespirator electronics.
 
 If you want to access the **source files**, [click here](https://gitlab.com/coronavirusmakers/reespirator).
 
+## Team
+
+Iván Torres - Diseño PCB y documentación (@itorres1)
+Antonio Ruiz - Diseño PCB (@antoniorn1)
+Joaquín Cubillo - BOM y documentación
+
 # Versión penúltima, se irá actualizando conforme avance el proyecto.
 
 
@@ -31,19 +37,19 @@ Se ha separado el sistema en 4 grupos, que forman parte del Reespirator:
   - Se utilizará una seta para poder cortar la alimentación a la máquina en caso de emergencia.
   - La conexión a la red eléctrica se realizará mediante un conector IEC-C14 macho con fusible e interruptor.
 
-
-
 **2. Conexión de los módulos**
 
-- Sensor efecto hall / final de carrera
-**Se conectará al conector marcado como HALL en la parte trasera de la PCB, mediante un conector MOLEX 10-11-2033, aunque es compatible con otros headers con 2.54 mm de pitch (incluso se podrían usar cables Dupont o similares).**
+Faltan imagenes.
 
-- Driver TB6600 + NEMA
-**Señales de control: Se conectará al conector marcado como DRIVER0 en la parte trasera de la PCB, mediante un conector MOLEX 10-11-2043, aunque es compatible con otros headers con 2.54 mm de pitch (incluso se podrían usar cables Dupont o similares).**
-**Señales del motor: Conectados a un motor paso a paso. Los colores del cableado pueden cambiar según el motor utilizado, consultar el datasheet del motor antes de poner la máquina en marcha.**
+**Sensor efecto hall / final de carrera.** 
+-Se conectará al conector marcado como HALL en la parte trasera de la PCB, mediante un conector MOLEX 10-11-2033, aunque es compatible con otros headers con 2.54 mm de pitch (incluso se podrían usar cables Dupont o similares).
+
+**Driver TB6600 + NEMA.**
+-Señales de control: Se conectará al conector marcado como DRIVER0 en la parte trasera de la PCB, mediante un conector MOLEX 10-11-2043, aunque es compatible con otros headers con 2.54 mm de pitch (incluso se podrían usar cables Dupont o similares).
+-Señales del motor: Conectados a un motor paso a paso. Los colores del cableado pueden cambiar según el motor utilizado, consultar el datasheet del motor antes de poner la máquina en marcha.
   - B- y B+: conectado a la fase B del motor paso a paso
   - A- y A+: conectado a la fase A del motor paso a paso
-**Señales de potencia: se conectarán directamente desde la fuente de alimentación (V+ y V-) con cable rojo y negro (o del que se disponga) de sección AWG 20 / 0.5mm2 o superior (recomendado).**
+-Señales de potencia: se conectarán directamente desde la fuente de alimentación (V+ y V-) con cable rojo y negro (o del que se disponga) de sección AWG 20 / 0.5mm2 o superior (recomendado).
   - VCC:  conectado al positivo de la fuente de 24V
   - GND: conectado a la masa de la fuente de 24V
 
