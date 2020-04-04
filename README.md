@@ -11,7 +11,7 @@ A collection of resources for Reespirator, an open-source low-cost Jackson-Rees-
 
 ## Source code
 
-|              Purpose              |          Repository          |
-| --------------------------------- | ---------------------- |
-| Human-Machine Interface | [reespirator-beagle-touch](https://gitlab.com/reesistencia/reespirator) |
-| Ventilation Control                 | [reespirator-firmware](https://gitlab.com/reesistencia/reespirator)           |
+|         Purpose         |                                      Repository                                      |
+| ----------------------- | ------------------------------------------------------------------------------------ |
+| Human-Machine Interface | [reespirator-beagle-touch](https://gitlab.com/reesistencia/reespirator-beagle-touch) |
+| Ventilation Control     | [reespirator-firmware](https://gitlab.com/reesistencia/reespirator)                  |
