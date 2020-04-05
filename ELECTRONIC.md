@@ -25,7 +25,7 @@ Según este esquema podemos ver que el sistema electrónico está compuesto por:
 ○ Pantalla TFT táctil de 7 pulgadas, con conexión HDMI, del fabricante ShareWave y resolución 800x480.
 ○ Para la señalización de alarmas, se dispondrá de un zumbador acústico activo.
 
-Insistimos en que este es el sistema utilizado en nuestro prototipo pero se podría plantear la utilización de otros aunque caso de ser aprobado este no tendría la validación necesaria.
+Insistimos en que este es el sistema utilizado en nuestro prototipo; pero se podría plantear la utilización de otros aunque caso de ser aprobado este no tendría la validación necesaria.
 
 ● Sistema de actuación y sensorización
 ○ Se utilizarán motores NEMA, concretamente NEMA24.
