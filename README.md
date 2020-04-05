@@ -1,6 +1,6 @@
 # Reespirator Docs - Manual de montaje
 
-Este fork pretende documentar y organizar la forma de construcción del Reespirator 23 para todas aquellas personas, organizaciones o empresas que quieran fabricarlo. 
+Este fork pretende documentar y organizar la forma de construcción del Reespirator 24, un respirador open-source de bajo coste basado en el sistema de ventilación mecánica Jackson-Rees, para todas aquellas personas, organizaciones o empresas que quieran fabricarlo.
 
 A collection of resources for Reespirator, an open-source low-cost Jackson-Rees-based mechanical ventilator.
 
