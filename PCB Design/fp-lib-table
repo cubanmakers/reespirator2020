@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name REES)(type KiCad)(uri "$(KIPRJMOD)/REES.pretty")(options "")(descr ""))
-  (lib (name Arduino)(type KiCad)(uri /home/antonio/Kicad/libraries/Arduino.pretty)(options "")(descr ""))
-)
