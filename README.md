@@ -1,10 +1,11 @@
 # Reespirator Docs - Manual de montaje 
 
-Este repositorio pretende documentar y organizar la forma de construcción del Reespirator 23, un respirador open-source de bajo coste basado en el sistema de ventilación mecánica Jackson-Rees, para todas aquellas personas, organizaciones o empresas que quieran fabricarlo.
+Este repositorio pretende documentar y organizar la forma de construcción del **Reespirator**, un respirador open-source de bajo coste basado en el sistema de ventilación mecánica Jackson-Rees, para todas aquellas personas, organizaciones o empresas que quieran fabricarlo.
 
-ESTA DOCUMENTACIÓN ESTÁ EN ELABORACIÓN.
 
-A collection of resources for Reespirator, an open-source low-cost Jackson-Rees-based mechanical ventilator.
+> ESTA DOCUMENTACIÓN ESTÁ EN ELABORACIÓN. 
+
+***A collection of resources for Reespirator, an open-source low-cost Jackson-Rees-based mechanical ventilator.***
 
 ## Disclaimer
 *Recuerde que un respirador es un dispositivo médico que sólo puede ser utilizado por personal cualificado y que un mal respirador o un respirador mal utilizado puede matar.*
