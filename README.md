@@ -46,8 +46,8 @@ El sistema de control necesita ser programado con un firmware que permita hacer 
 
 |              Purpose              |          File          |
 | --------------------------------- | ---------------------- |
-| Technical documentation (Spanish) | technical_specs_es.pdf |
-| Hardware assembly                 | assembly.x_t           |
+| Technical documentation (Spanish) | [technical_specs_es.pdf](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/technical_specs_es.pdf) |
+| Hardware assembly                 | [assembly.x_t](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/assembly.x_t)           |
 
 ## Source code
 
