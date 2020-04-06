@@ -29,7 +29,7 @@ En el prototipo actual las piezas del prototipo se han diseñado para su corte p
 ## [Sistema neumático](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/NEUMATIC.md)
 Basado en un sistema Jackson-Rees 
 
-## [Mecánica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/MECANIC.md)
+## [Mecánica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/MECHANIC.md)
 El sistema mecánico pretende realizar los movimientos necesarios para realizar las maniobras de inspiración y espiración forzada del paciente mediante elementos mecánicos sustituyendo al personal humano que utilizaría el sistema de ventilación.
 
 ## [Electrónica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/ELECTRONIC.md)
