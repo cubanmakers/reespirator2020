@@ -1,5 +1,5 @@
 ## Estructura básica
-Reespirator 23 consta de una caja diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. El archivo **![]assembly.x_t (https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/assembly.x_t)** corresponde al diseño del modelo completo.
+Reespirator 23 consta de una caja diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. El archivo **![]assembly.x_t(https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/assembly.x_t)** corresponde al diseño del modelo completo.
 
 Las siguientes piezas del prototipo se han diseñado para su corte por láser en metacrilato de 10mm de grosor.
 
