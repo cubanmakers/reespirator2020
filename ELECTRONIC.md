@@ -13,6 +13,7 @@ El diagrama de bloques funcionales y elementos electrónicos del sistema se mues
 Según este esquema podemos ver que el sistema electrónico está compuesto por:
 
 ● Microcontrolador: se ha empleado un Arduino Mega 2560 Rev3
+[Arduino Mega](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/Arduino-mega.jpg)
 
 ● Etapa de alimentación:
 	* La conexión a la red eléctrica se realizará mediante un conector IEC-C14 con fusible e interruptor.
