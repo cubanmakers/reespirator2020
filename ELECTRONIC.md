@@ -15,9 +15,9 @@ Según este esquema podemos ver que el sistema electrónico está compuesto por:
 ● Microcontrolador: se ha empleado un Arduino Mega 2560 Rev3
 
 ● Etapa de alimentación:
-	○ La conexión a la red eléctrica se realizará mediante un conector IEC-C14 con fusible e interruptor.
-	○ Fuente de alimentación con entrada de 220Vac/50Hz y salida 24Vdc.
-	○ Regulador step-down (LM2596, por ejemplo), con salida de 12Vdc.
+	* La conexión a la red eléctrica se realizará mediante un conector IEC-C14 con fusible e interruptor.
+	* Fuente de alimentación con entrada de 220Vac/50Hz y salida 24Vdc.
+	* Regulador step-down (LM2596, por ejemplo), con salida de 12Vdc.
 
 {Insertar esquema de conexión}
 
