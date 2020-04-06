@@ -26,17 +26,17 @@ Reespirator 23 consta de una caja diseñada para fabricarse mediante corte láse
 
 En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato.
 
-## Sistema neumático
+## [Sistema neumático](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/NEUMATIC.md)
 Basado en un sistema Jackson-Rees 
 
-## Mecánica
+## [Mecánica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/MECANIC.md)
 El sistema mecánico pretende realizar los movimientos necesarios para realizar las maniobras de inspiración y espiración forzada del paciente mediante elementos mecánicos sustituyendo al personal humano que utilizaría el sistema de ventilación.
 
-## Electrónica
+## [Electrónica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/ELECTRONIC.md)
 La electrónica de control gestiona el movimiento del motor y los sensores que permiten realizar un control de lazo cerrado automatizado del sistema.
 Además de la electrónica de control se emplea una electrónica adicional como interfaz de usuario que permite monitorizar diferentes señales del respirador y modificar en tiempo real diferentes configuraciones del mismo.
 
-## Firmware
+## [Firmware](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/FIRMWARE.md)
 El sistema de control necesita ser programado con un firmware que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
 
 ## Usage
