@@ -21,7 +21,7 @@ El dispositivo Reespirator 23 es un sistema respirador de emergencia con element
 Antes de montar un respirador lea toda la documentación posible e infórmese bien.
 
 
-## Estructura básica
+## [Estructura básica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/CASE.md)
 Reespirator 23 consta de una caja diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior.
 
 En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato.
