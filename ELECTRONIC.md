@@ -8,7 +8,7 @@ En el prototipo actual la conexión de los distintos elementos se ha realizado s
 Actualmente, se está trabajando el diseño de un PCB específico que integre la diversa electrónica que, en el prototipo, se ha realizado mediante módulos externos. Este desarrollo se irá liberando en el repositorio https://gitlab.com/reesistencia/reespirator-hardware
 
 El diagrama de bloques funcionales y elementos electrónicos del sistema se muestra en la siguiente figura:
-
+![Diagrama de bloques](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/diagrama-de-bloques.jpg "Diagrama de bloques")
 
 Según este esquema podemos ver que el sistema electrónico está compuesto por:
 
