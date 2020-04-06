@@ -1,0 +1,1 @@
+El sistema mecánico de Reespirator utiliza un motor Nema 23/24 que hace oscilar una leva con forma de caracol y esta mueve a su vez una palanca que bascula haciendo moverse al empujador que aprieta sobre el globo del Jackson-Rees.
