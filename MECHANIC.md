@@ -1,9 +1,13 @@
 El sistema mecánico de Reespirator utiliza un motor Nema 23/24 que hace oscilar una leva con forma de caracol y esta mueve a su vez una palanca que bascula haciendo moverse al empujador que aprieta sobre el globo del Jackson-Rees.
 
 La parte mecánica consta de:
-● Una leva fabricada en metacrilato de 8mm. con un casquillo adaptador, fabricado en acero.
-● Un balancín formado por 2 piezas de metacrilato de 4 mm. Dispone de un rodamiento 608ZZ, que entra en contacto con la leva y pivota sobre un tornillo M8 que lo ancla a la estructura de la caja, y en su parte final está fijado a una pala,
+
+* Una leva fabricada en metacrilato de 8mm. con un casquillo adaptador, fabricado en acero.
+
+* Un balancín formado por 2 piezas de metacrilato de 4 mm. Dispone de un rodamiento 608ZZ, que entra en contacto con la leva y pivota sobre un tornillo M8 que lo ancla a la estructura de la caja, y en su parte final está fijado a una pala,
 impresa en 3D, con dos tornillos M5.
-● La carcasa, que contiene todo el dispositivo está fabricada en metacrilato de 10mm, dispone además de un embellecedor, cortado en láser de metacrilato de 4mm para protección mecánica.
-● Además, dispone de una cama impresa en 3D donde se aloja el balón respirador de Jackson Rees.
+
+* La carcasa, que contiene todo el dispositivo está fabricada en metacrilato de 10mm, dispone además de un embellecedor, cortado en láser de metacrilato de 4mm para protección mecánica.
+
+* Además, dispone de una cama impresa en 3D donde se aloja el balón respirador de Jackson Rees.
 
