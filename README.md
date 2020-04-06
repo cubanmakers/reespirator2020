@@ -17,7 +17,7 @@ La presente documentación NO PERMITE CONSTRUIR UN RESPIRADOR FINAL, sólo se pu
 
 El dispositivo Reespirator 23 es un sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de Síndrome de Distrés Respiratorio Agudo o SDRA.
 
-![alt text](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/images/image015.jpg "Reespirator")
+![alt text](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/image015.jpg "Reespirator")
 
 
 ## Primeros pasos
