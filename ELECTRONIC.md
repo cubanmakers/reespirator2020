@@ -31,11 +31,14 @@ Según este esquema podemos ver que el sistema electrónico está compuesto por:
 Insistimos en que este es el sistema utilizado en nuestro prototipo; pero se podría plantear la utilización de otros aunque caso de ser aprobado este no tendría la validación necesaria.
 
 ● Sistema de actuación y sensorización
-	○ Se utilizarán motores NEMA, concretamente NEMA24.
-	○ Los motores NEMA se controlarán con un driver HSS57. Se ha elegido este modelo ya que puede controlar tanto el NEMA24 como motores más pequeños sin necesidad de cambiar todo el hardware.
+	*○ Se utilizarán motores NEMA, concretamente NEMA24.
+
+	*○ Los motores NEMA se controlarán con un driver HSS57. Se ha elegido este modelo ya que puede controlar tanto el NEMA24 como motores más pequeños sin necesidad de cambiar todo el hardware.
 	![Esquema de conexión](![Arduino Mega](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/motor-driver.png "Esquema de conexión del driver y el motor paso a paso")
-)
-	○ Para monitorizar la posición inicial del sistema, se utilizará un sensor de efecto hall.
-	○ Electroválvula para el control de salida de aire del sistema neumático ○ Sensor de caudal Sensirion SFM3300-AW para la medición del caudal en el espacio muerto del sistema de ventilación. Al ser una pieza que estará en contacto con el circuito de inspiración del paciente, se emplea un sensor homologado para aplicaciones médicas.
-	○ Sensor de presión diferencial para la diferencia de presión que existe entre el circuito inspiratorio y la presión ambiental. Se empleará el modelo ABPLANT001PG2A5 de Honeywell, que está homologado para aplicaciones
-médicas.
+
+	*○ Para monitorizar la posición inicial del sistema, se utilizará un sensor de efecto hall.
+
+	*○ Electroválvula para el control de salida de aire del sistema neumático ○ Sensor de caudal Sensirion SFM3300-AW para la medición del caudal en el espacio muerto del sistema de ventilación. Al ser una pieza que estará en contacto con el circuito de inspiración del paciente, se emplea un sensor homologado para aplicaciones médicas.
+
+	*○ Sensor de presión diferencial para la diferencia de presión que existe entre el circuito inspiratorio y la presión ambiental. Se empleará el modelo ABPLANT001PG2A5 de Honeywell, que está homologado para aplicaciones médicas.
+	
