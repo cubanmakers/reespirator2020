@@ -10,7 +10,7 @@ Este repositorio pretende documentar y organizar los pasos para fabricar el prot
 ## Disclaimer
 *Recuerde que un respirador es un dispositivo médico que sólo puede ser utilizado por personal cualificado y que un mal respirador o un respirador mal utilizado puede matar.*
 
-La presente documentación NO PERMITE CONSTRUIR UN RESPIRADOR FINAL, sólo se publica para que se pueda fabricar PROTOTPOS para investigación, hoy 5 de abril no se ha logrado aún una validación de la Agencia Española del Medicamento, si esto cambiara se cambiará este texto.
+La presente documentación NO PERMITE CONSTRUIR UN RESPIRADOR FINAL, sólo se publica para que se pueda fabricar PROTOTPOS para investigación, hoy 7 de abril no se ha logrado aún una validación de la Agencia Española del Medicamento, si esto cambiara se cambiará este texto.
 
 
 ## Info
@@ -42,6 +42,7 @@ Además de la electrónica de control se emplea una electrónica adicional como 
 
 ## [Firmware](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/FIRMWARE.md)
 El sistema de control necesita ser programado con un firmware que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
+
 
 ## Usage
 
