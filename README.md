@@ -1,6 +1,6 @@
 # Reespirator Docs - Manual de montaje 
 
-Este repositorio pretende documentar y organizar los pasos para fabricar el prototipo  **Reespirator**, un respirador open-source de bajo coste basado en el sistema de ventilación mecánica Jackson-Rees, para todas aquellas personas, organizaciones o empresas que quieran fabricarlo.
+Este repositorio pretende documentar y organizar los pasos para fabricar las distintas versiones de los prototipos de  **Reespirator**, un respirador open-source de bajo coste basado en el sistema de ventilación mecánica Jackson-Rees, para todas aquellas personas, organizaciones o empresas que quieran fabricarlo.
 
 
 > ESTA DOCUMENTACIÓN ESTÁ EN ELABORACIÓN. 
@@ -14,9 +14,9 @@ La presente documentación NO PERMITE CONSTRUIR UN RESPIRADOR FINAL, sólo se pu
 
 
 ## Info
-*¿Qué es Reespirator 23?*
+*¿Qué es Reespirator2020?*
 
-El dispositivo Reespirator 23 es un sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de Síndrome de Distrés Respiratorio Agudo o SDRA.
+El dispositivo Reespirator 2020 es un sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de Síndrome de Distrés Respiratorio Agudo o SDRA.
 
 ![Reespirator](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/image015.jpg "Reespirator")
 
