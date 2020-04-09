@@ -3,25 +3,28 @@
 Este repositorio pretende documentar y organizar los pasos para fabricar prototipos de  **Reespirator-2020**, un respirador open-source de bajo coste basado en el sistema de ventilación mecánica Jackson-Rees, para todas aquellas personas, organizaciones o empresas que quieran fabricarlo.  
 
 
+
 > ESTA DOCUMENTACIÓN ESTÁ EN ELABORACIÓN, COMPRUEBE REGULARMENTE LOS CAMBIOS, LAS PRIMERAS VERSIONES PUBLICADAS ESTÁN DESACTUALIZAS. 
+
 
 
 ## Disclaimer
 *Recuerde que un respirador es un dispositivo médico que sólo puede ser utilizado por personal cualificado y que un mal respirador o un respirador mal utilizado puede matar.*
 
-La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo se publica para que se pueda fabricar PROTOTPOS para investigación, hoy 7 de abril no se ha logrado aún una validación de la Agencia Española del Medicamento, si esto cambiara se cambiará este texto.
-
+La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo se publica para que se pueda fabricar PROTOTPOS para investigación, hoy 7 de abril no se ha logrado aún una validación de la Agencia Española del Medicamento, si esto cambiara se modificaría este texto.
 
 ## Info
 *¿Qué es Reespirator2020?*
 
 El dispositivo Reespirator 2020 es un sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de Síndrome de Distrés Respiratorio Agudo o SDRA.
 
+Aunque su origen es España, debido a las regulaciones y validaciones necesarias para los productos, y aunque hemos superado varias pruebas preclínicas con animales, suponemos que este dispositivo nunca se llegará a fabricar masivamente en España, dónde afortunadamente lo peor de la crisis del COVID-19 parece que ya ha pasado (08/04/20); pero esperamos que nuestro diseño pueda ser útil en otros países.
+
 ![Reespirator](https://gitlab.com/reespirator/reespirator2020/-/blob/master/images/Reespirator-2020.png "Reespirator")
 
 
 ## Primeros pasos
-Antes de montar un respirador lea toda la documentación posible e infórmese bien.
+Antes de montar un respirador lea toda la documentación posible e infórmese bien, si necesita alguna aclaración abra un Issue y lo corregiremos en cuanto podamos.
 
 
 ## [Estructura básica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/CASE.md)
