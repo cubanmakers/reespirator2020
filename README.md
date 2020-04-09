@@ -18,7 +18,9 @@ La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo s
 
 El dispositivo Reespirator 2020 es un sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de Síndrome de Distrés Respiratorio Agudo o SDRA.
 
-Aunque su origen es España, debido a las regulaciones y validaciones necesarias para los productos, y aunque hemos superado varias pruebas preclínicas con animales, suponemos que este dispositivo nunca se llegará a fabricar masivamente en España, dónde afortunadamente lo peor de la crisis del COVID-19 parece que ya ha pasado (08/04/20); pero esperamos que nuestro diseño pueda ser útil en otros países.
+Aunque su origen es España, debido a las regulaciones y validaciones necesarias para los productos, y aunque hemos superado varias pruebas preclínicas con animales, suponemos que este dispositivo nunca se llegará a fabricar masivamente en España, dónde afortunadamente lo peor de la crisis del COVID-19 parece que ya ha pasado (08/04/20); pero esperamos que nuestro diseño pueda ser útil en otros países. Aún así no nos damos por vencidos y seguiremos desarrollando el proyecto al menos en 2 versiones:
+* Versión low cost (basada en Arduino)
+* Versión pro (con un autómata PLC + un HMI)
 
 ![Reespirator](https://gitlab.com/reespirator/reespirator2020/-/blob/master/images/Reespirator-2020.png "Reespirator")
 
