@@ -18,7 +18,7 @@ La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo s
 
 El dispositivo Reespirator 2020 es un sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de Síndrome de Distrés Respiratorio Agudo o SDRA.
 
-![Reespirator](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/image015.jpg "Reespirator")
+![Reespirator](https://gitlab.com/reespirator/reespirator2020/Reespirator-2020.png "Reespirator")
 
 
 ## Primeros pasos
