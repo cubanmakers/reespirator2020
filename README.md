@@ -1,11 +1,10 @@
-# Reespirator Docs - Manual de montaje 
+# Reespirator 2020 Docs
 
-Este repositorio pretende documentar y organizar los pasos para fabricar prototipos de  **Reespirator**, un respirador open-source de bajo coste basado en el sistema de ventilación mecánica Jackson-Rees, para todas aquellas personas, organizaciones o empresas que quieran fabricarlo. 
+Este repositorio pretende documentar y organizar los pasos para fabricar prototipos de  **Reespirator-2020**, un respirador open-source de bajo coste basado en el sistema de ventilación mecánica Jackson-Rees, para todas aquellas personas, organizaciones o empresas que quieran fabricarlo.  
 
 
 > ESTA DOCUMENTACIÓN ESTÁ EN ELABORACIÓN, COMPRUEBE REGULARMENTE LOS CAMBIOS, LAS PRIMERAS VERSIONES PUBLICADAS ESTÁN DESACTUALIZAS. 
 
-***A collection of resources for Reespirator, an open-source low-cost Jackson-Rees-based mechanical ventilator.***
 
 ## Disclaimer
 *Recuerde que un respirador es un dispositivo médico que sólo puede ser utilizado por personal cualificado y que un mal respirador o un respirador mal utilizado puede matar.*
@@ -18,7 +17,7 @@ La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo s
 
 El dispositivo Reespirator 2020 es un sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de Síndrome de Distrés Respiratorio Agudo o SDRA.
 
-![Reespirator](https://gitlab.com/reespirator/reespirator2020/Reespirator-2020.png "Reespirator")
+![Reespirator](https://gitlab.com/reespirator/reespirator2020/-/blob/master/images/Reespirator-2020.png "Reespirator")
 
 
 ## Primeros pasos
@@ -26,9 +25,7 @@ Antes de montar un respirador lea toda la documentación posible e infórmese bi
 
 
 ## [Estructura básica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/CASE.md)
-Reespirator 23 consta de una caja diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior.
-
-En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato.
+Reespirator 2020 consta de una caja diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato si bien la imagen anterior corresponde a la nueva evolución que podrá fabricarse también con chapa plegada.
 
 ## [Sistema neumático](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/NEUMATIC.md)
 Basado en un sistema Jackson-Rees 
