@@ -45,24 +45,10 @@ Además de la electrónica de control se emplea una electrónica adicional como 
 ## [Firmware](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/FIRMWARE.md)
 El sistema de control necesita ser programado con un firmware que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
 
-
-## Usage
-
-|              Purpose              |          File          |
-| --------------------------------- | ---------------------- |
-| Technical documentation (Spanish) | [technical_specs_es.pdf](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/technical_specs_es.pdf) |
-| Hardware assembly                 | [assembly.x_t](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/assembly.x_t)           |
-
-## Source code
-
-|         Purpose         |                                      Repository                                      |
-| ----------------------- | ------------------------------------------------------------------------------------ |
-| Human-Machine Interface | [reespirator-beagle-touch](https://gitlab.com/reesistencia/reespirator-beagle-touch) |
-| Ventilation Control     | [reespirator-firmware](https://gitlab.com/reesistencia/reespirator)                  |
-
 ## Historia y principales cambios de esta versión
 
-El proyecto Reespirator2020 toma como punto de partida el proyecto Reespirator 23 (o 24) v3, e incluye principalmente los siguientes cambios:
+El proyecto Reespirator2020 toma como punto de partida el proyecto Reespirator 23 (o 24) v3 de Reesistencia Team a partir del cual realizamos un fork.
+En esta nueva versión se incluyen principalmente los siguientes cambios:
 
  - Revisión y reestructuración en profundidad del códido de Arduino para asegurar la robustez de funcionamiento en todos los supuestos.
  - La recuperación del interfaz básico con LCD de 20x04 y elementos sencillos de control (4 pulsadores y un encoder con pulsador).
@@ -71,5 +57,5 @@ El proyecto Reespirator2020 toma como punto de partida el proyecto Reespirator 2
 
 ## Repositorio temporal de trabajo para el código de Reespirator2020
 
-El siguiente repositorio se está utilizando como fork de trabajo para transformar el código de Respirator 23 (o 24) v3  (cuyo código se ha denominado 'batalla') en el código estable que se usará en Respirator 2020 (cuyo código se ha denominado 'retaguardia').
-https://gitlab.org/reespirator-arduino
+El siguiente repositorio se está utilizando como fork de trabajo para transformar el código de Respirator 23 (o 24) v3 (cuyo código se ha denominado 'batalla') en el código estable que se usará en Respirator 2020 de arduino, cuyo código se ha denominado ['retaguardia'].
+(https://gitlab.org/reespirator-arduino "al que puedes acceder en este repositorio")
