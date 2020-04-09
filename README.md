@@ -57,3 +57,17 @@ El sistema de control necesita ser programado con un firmware que permita hacer 
 | ----------------------- | ------------------------------------------------------------------------------------ |
 | Human-Machine Interface | [reespirator-beagle-touch](https://gitlab.com/reesistencia/reespirator-beagle-touch) |
 | Ventilation Control     | [reespirator-firmware](https://gitlab.com/reesistencia/reespirator)                  |
+
+## Historia y principales cambios de esta versión
+
+El proyecto Reespirator2020 toma como punto de partida el proyecto Reespirator 23 (o 24) v3, e incluye principalmente los siguientes cambios:
+
+ - Revisión y reestructuración en profundidad del códido de Arduino para asegurar la robustez de funcionamiento en todos los supuestos.
+ - La recuperación del interfaz básico con LCD de 20x04 y elementos sencillos de control (4 pulsadores y un encoder con pulsador).
+ - Establecimiento y documentación de una interfaz de comunicación serie que permite la utilización de sistemas (en adelante llamados Display+) de visualización, control y conectividad, que pueden ser utilizados como accesorios para aportar mejor usabilidad al sistema.
+ - Se trabaja para estandarizar y popularizar los sensores y electro-válvulas para utilizar partes (comerciales o diseñadas) posibles de conseguir con la situación de emergencia actual y a precios accesibles.
+
+## Repositorio temporal de trabajo para el código de Reespirator2020
+
+El siguiente repositorio se está utilizando como fork de trabajo para transformar el código de Respirator 23 (o 24) v3  (cuyo código se ha denominado 'batalla') en el código estable que se usará en Respirator 2020 (cuyo código se ha denominado 'retaguardia').
+https://gitlab.org/reespirator-arduino
