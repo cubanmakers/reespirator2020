@@ -7,6 +7,6 @@ La caja puede fabricarse también de dos formas distintas mediante corte láser 
 ![](https://lh4.googleusercontent.com/Rw_BoGAOtlgW_iJPXKSboZ_phwh_bFgpRYRIgVJQMQPlqopViYdBvEJlTBs2Jf4IKGeqSFo7HWUwPOuHRUW-O--tx-CfoybJuYr24uFZXqtUsO-ckM-EhM07qhvl56rM1nOGuWrH)
 
 * La versión de [chapa plegada](https://gitlab.com/reespirator/reespirator2020/-/blob/master/CASE-LOCK.md) tiene el siguiente aspecto:
-![Diagrama de bloques](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/BMR_001_CARCASA_SUPERIOR_PARA_FABRICAR.jpg "Carcasa superior para fabricar")
+![Diagrama de bloques](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_000_completo_para_fabricar.jpg "Caja para fabricar en chapa plegada")
 
-Los archivos para su fabricación en distintos formatos se están publicando en el directorio files.
+Los archivos para su fabricación en distintos formatos se están publicando en el directorio /files.
