@@ -29,20 +29,20 @@ Aunque su origen es España, debido a las regulaciones y validaciones necesarias
 Antes de montar un respirador lea toda la documentación posible e infórmese bien, si necesita alguna aclaración abra un Issue y lo corregiremos en cuanto podamos. Si crees que puedes mejorar el diseño o el código envíanos un Pull request.
 
 
-## [Estructura básica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/CASE.md)
+## [Estructura básica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/CASE.md)
 Reespirator 2020 consta de una caja diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato si bien la imagen anterior corresponde a la nueva evolución que podrá fabricarse también con chapa plegada.
 
-## [Sistema neumático](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/NEUMATIC.md)
+## [Sistema neumático](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/NEUMATIC.md)
 Basado en un sistema Jackson-Rees, Reespirator 2020 utiliza una serie de válvulas, sensores de presión y caudal y tubuladuras para hacer llegar al aire a los pulmones del paciente.
 
-## [Mecánica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/MECHANIC.md)
+## [Mecánica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MECHANIC.md)
 El sistema mecánico pretende realizar los movimientos necesarios para realizar las maniobras de inspiración y espiración forzada del paciente mediante elementos mecánicos sustituyendo al personal humano que utilizaría el sistema de ventilación.
 
-## [Electrónica](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/ELECTRONIC.md)
+## [Electrónica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/ELECTRONIC.md)
 La electrónica de control gestiona el movimiento del motor y los sensores que permiten realizar un control de lazo cerrado automatizado del sistema.
 Además de la electrónica de control se emplea una electrónica adicional como interfaz de usuario que permite monitorizar diferentes señales del respirador y modificar en tiempo real diferentes configuraciones del mismo.
 
-## [Firmware](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/FIRMWARE.md)
+## [Firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md)
 El sistema de control necesita ser programado con un firmware que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
 
 ## Historia y principales cambios de esta versión
@@ -58,5 +58,4 @@ En esta nueva versión se incluyen principalmente los siguientes cambios:
 
 ## Repositorio temporal de trabajo para el código de Reespirator2020
 
-El siguiente repositorio se está utilizando como fork de trabajo para transformar el código de Respirator 23 (o 24) v3 (cuyo código se ha denominado 'batalla') en el código estable que se usará en Respirator 2020 de arduino, cuyo código se ha denominado 
-(https://gitlab.com/reespirator-arduino "'retaguardia'").
+El siguiente repositorio se está utilizando como fork de trabajo para transformar el código de Respirator 23 (o 24) v3 (cuyo código se ha denominado 'batalla') en el código estable que se usará en Respirator 2020 de arduino, cuyo código se ha denominado ['retaguardia'](https://gitlab.com/reespirator-arduino).
