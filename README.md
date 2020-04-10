@@ -38,7 +38,7 @@ Basado en un sistema Jackson-Rees, Reespirator 2020 utiliza una serie de válvul
 ## [Mecánica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MECHANIC.md)
 El sistema mecánico pretende realizar los movimientos necesarios para realizar las maniobras de inspiración y espiración forzada del paciente mediante elementos mecánicos sustituyendo al personal humano que utilizaría el sistema de ventilación.
 
-## [Electrónica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/ELECTRONIC.md)
+## [Electrónica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/ELECTRONICS.md)
 La electrónica de control gestiona el movimiento del motor y los sensores que permiten realizar un control de lazo cerrado automatizado del sistema.
 Además de la electrónica de control se emplea una electrónica adicional como interfaz de usuario que permite monitorizar diferentes señales del respirador y modificar en tiempo real diferentes configuraciones del mismo.
 
