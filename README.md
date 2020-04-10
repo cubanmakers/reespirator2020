@@ -17,7 +17,9 @@ La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo s
 
 El dispositivo Reespirator 2020 es un sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de [Síndrome de Distrés Respiratorio Agudo](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_dificultad_respiratoria_aguda) o SDRA.
 
-Aunque su origen es España, debido a las regulaciones y validaciones necesarias para los productos, y aunque hemos superado varias pruebas preclínicas con animales, suponemos que este dispositivo nunca se llegará a fabricar masivamente en España, dónde afortunadamente lo peor de la crisis del COVID-19 parece que ya ha pasado (08/04/20); pero esperamos que nuestro diseño pueda ser útil en otros países. Aún así no nos damos por vencidos y seguiremos desarrollando el proyecto al menos en 2 versiones:
+Aunque el origen de Reespirator es España, debido a las regulaciones y validaciones necesarias para los productos médicos, y aunque hemos superado varias pruebas preclínicas con animales, y de compatibilidad electromagnética, suponemos que este dispositivo nunca se llegará a fabricar masivamente en España, dónde afortunadamente lo peor de la crisis del COVID-19 parece que ya ha pasado (08/04/20); pero esperamos que nuestro diseño pueda ser útil en otros países.
+
+Aún así no nos damos por vencidos y seguiremos desarrollando el proyecto al menos en 2 versiones:
 
 * Versión low cost (basada en Arduino y con caja de metacrilato, madera...)
 * Versión pro (con un autómata PLC + un HMI y caja de chapa plegada en acero inoxidable)
@@ -25,8 +27,9 @@ Aunque su origen es España, debido a las regulaciones y validaciones necesarias
 ![Reespirator](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/Reespirator-2020-redesign.jpg "Reespirator")
 
 
+
 ## Primeros pasos
-Antes de montar un respirador lea toda la documentación posible e infórmese bien, si necesita alguna aclaración abra un Issue y lo corregiremos en cuanto podamos. Si crees que puedes mejorar el diseño o el código envíanos un Pull request.
+Antes de montar un respirador lea toda la documentación posible e infórmese bien, si necesitas alguna aclaración abra un Issue y lo corregiremos en cuanto podamos. Si crees que puedes mejorar el diseño o el código envíanos un Pull request.
 
 
 ## [Estructura básica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/CASE.md)
