@@ -21,7 +21,7 @@ Los archivos para su fabricación mediante chapa plegada en distintos formatos s
 
 ![Separador superior](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_005_separador_superior_para_fabricar.jpg "Separador superior")
 
-![Laterales abatibles](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_006_lateralaes_abatibles_para_fabricar.jpg "Laterales abatibles")
+![Laterales abatibles](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_006_laterales_abatibles_para_fabricar.jpg "Laterales abatibles")
 
 ![Culo cubierta](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_007_culo_cubierta_para_fabricar.jpg "Culo cubierta")
 
