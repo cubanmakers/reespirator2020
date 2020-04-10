@@ -59,4 +59,4 @@ En esta nueva versión se incluyen principalmente los siguientes cambios:
 ## Repositorio temporal de trabajo para el código de Reespirator2020
 
 El siguiente repositorio se está utilizando como fork de trabajo para transformar el código de Respirator 23 (o 24) v3 (cuyo código se ha denominado 'batalla') en el código estable que se usará en Respirator 2020 de arduino, cuyo código se ha denominado 
-(https://gitlab.org/reespirator-arduino "'retaguardia'").
+(https://gitlab.com/reespirator-arduino "'retaguardia'").
