@@ -1,3 +1,5 @@
+***Este documento describe la electrónica basada en PLC. Si desea ver la versión para Arduino, está disponible en el siguiente enlace: https://gitlab.com/reespirator/reespirator2020/-/blob/master/ARDUINO-ELECTRONICS.md***
+
 ## Electrónica
 La electrónica de control gestiona el movimiento del motor y los sensores que permiten realizar un control de lazo cerrado automatizado del sistema. Además se emplea una electrónica adicional de interfaz de usuario que permite monitorizar diferentes señales del respirador y modificar en tiempo real diferentes configuraciones del mismo.
 
