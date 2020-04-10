@@ -1,20 +1,16 @@
 ## Manual de instrucciones
 
-Abreviaturas
-*● PIP (Peak Inspiratory Pressure), aplicación de una presión positiva al patrón de
-ventilación espontánea normal. Es una respiración espontánea con PEEP. Es una
-modalidad de soporte parcial.
-*● PEEP (Positive End-Expiratory Pressure), técnica mecánica que se utiliza al
-ventilar a un paciente. Dicha técnica incluye el agregado de una cantidad de presión
-en los pulmones al final de cada respiración.
-*● FR, Frecuencia de trabajo del respirador
-*● VOL, volumen pulmonar de trabajo.
+**Abreviaturas**
+
+* PIP (Peak Inspiratory Pressure), aplicación de una presión positiva al patrón de ventilación espontánea normal. Es una respiración espontánea con PEEP. Es una modalidad de soporte parcial.
+* PEEP (Positive End-Expiratory Pressure), técnica mecánica que se utiliza al ventilar a un paciente. Dicha técnica incluye el agregado de una cantidad de presión en los pulmones al final de cada respiración.
+* FR, Frecuencia de trabajo del respirador
+* VOL, volumen pulmonar de trabajo.
 
 ## Introducción
-El sistema Reespirator 2020 se puede construir en diferentes versiones.
-* Las últimas versiones cuentan con un interfaz de usuario táctil, simple y de sencillo
-manejo gracias a los botones de gran tamaño que permiten controlar los parámetros de
-operativa en las diferentes situaciones que así lo requieran.
+El sistema Reespirator 2020 se puede construir en diferentes versiones por tanto su uso también difiere un poco en función del modelo.
+
+* Las últimas versiones cuentan con un interfaz de usuario táctil, simple y de sencillo manejo gracias a los botones de gran tamaño que permiten controlar los parámetros de operativa en las diferentes situaciones que así lo requieran.
 
 Pero también se puede construir utilizando uno o varios encoder y algunos botones dónde la opción de la pantalla sea más complicada de conseguir.
 
