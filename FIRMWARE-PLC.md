@@ -18,8 +18,8 @@ En esta imagen mostramos la configuración de red utilizada para conectar el PLC
 
 Las siguientes son alguana de las imágenes del software ejecutándose en el HMI:
 
-![Detalle de la conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Simatic-HMI-1.png "HMI 1")
+![HMI 1](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Simatic-HMI-1.png "HMI 1")
 
-![Detalle de la conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Simatic-HMI-2.png "HMI 2")
+![HMI 2](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Simatic-HMI-2.png "HMI 2")
 
-![Detalle de la conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Simatic-HMI-3.png "HMI 3")
+![HMI 3](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Simatic-HMI-3.jpg "HMI 3")
