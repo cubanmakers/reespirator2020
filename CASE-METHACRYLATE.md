@@ -4,7 +4,7 @@ La caja puede fabricarse también de dos formas distintas mediante corte láser 
 
 * La versión de metacrilato / madera / mdf es de tipo machiembrado como la que aparece en las siguiente figuras para facilitar su montaje. Más adelante mostramos también la versión de chapa plegada.
 
-> La siguiente información es de la versión de Reespirator 23... se está actulizando para la nueva versión. Por favor, no fabricar. Al final de este documento iremos publicando la información de la nueva caja en chapa plegada.
+> La siguiente información es de la versión de Reespirator 23... se está actulizando para la nueva versión. **Por favor, no fabricar.** 
 
 Reespirator 23 consta de una caja diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. El archivo **![assembly.x_t](https://gitlab.com/reesistencia/reespirator-doc/-/blob/master/assembly.x_t)** corresponde al diseño del modelo completo.
 
