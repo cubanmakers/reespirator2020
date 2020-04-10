@@ -22,7 +22,7 @@ Aunque su origen es España, debido a las regulaciones y validaciones necesarias
 * Versión low cost (basada en Arduino y con caja de metacrilato, madera...)
 * Versión pro (con un autómata PLC + un HMI y caja de chapa plegada en acero inoxidable)
 
-![Reespirator](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/Main.png "Reespirator")
+![Reespirator](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/Reespirator-2020-redesign.jpg "Reespirator")
 
 
 ## Primeros pasos
