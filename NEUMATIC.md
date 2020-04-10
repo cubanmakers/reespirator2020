@@ -4,7 +4,7 @@ Basado en un sistema [Jackson-Rees](https://en.wikipedia.org/wiki/Breathing_circ
 ![Sistema Jakson-Rees](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/image005.png "Sistema Jackson-Rees")
 
 
-![Esquema neumático](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/image003.png "Esquema neumático")
+![Esquema neumático](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/neumatic.png "Esquema neumático")
 
 El circuito neumático completo está compuesto por tres secciones:
 * Circuito de inspiración, resaltado en rojo en el diagrama
