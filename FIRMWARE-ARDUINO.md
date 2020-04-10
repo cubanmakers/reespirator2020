@@ -1,5 +1,4 @@
-## Firmware
-El sistema de control necesita ser programado con un firmware que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
+## Firmware Arduino
 
 El firmware para el Arduino Mega está en el repositorio [reespirator-firmware](https://gitlab.com/reesistencia/reespirator)
 
@@ -16,4 +15,3 @@ El software para la Beagle-bone y la pantalla utilizadas en el prototipo Reespir
 
 En otros grupos de Telegram se ha logrado hacer funcionar este mismo código de visualización en un portátil y en una Raspberry Pi.
 
-En cuanto al software para la configuración con un PLC se ha preparado sobre un PLC Siemens 1200 y un HMI si bien se está considerando también la posibilidad de portarlo a otros sistemas.
