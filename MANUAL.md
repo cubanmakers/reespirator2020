@@ -1,28 +1,33 @@
 ## Manual de instrucciones
 
 Abreviaturas
-● PIP (Peak Inspiratory Pressure), aplicación de una presión positiva al patrón de
+*● PIP (Peak Inspiratory Pressure), aplicación de una presión positiva al patrón de
 ventilación espontánea normal. Es una respiración espontánea con PEEP. Es una
 modalidad de soporte parcial.
-● PEEP (Positive End-Expiratory Pressure), técnica mecánica que se utiliza al
+*● PEEP (Positive End-Expiratory Pressure), técnica mecánica que se utiliza al
 ventilar a un paciente. Dicha técnica incluye el agregado de una cantidad de presión
 en los pulmones al final de cada respiración.
-● FR, Frecuencia de trabajo del respirador
-● VOL, volumen pulmonar de trabajo.
+*● FR, Frecuencia de trabajo del respirador
+*● VOL, volumen pulmonar de trabajo.
 
 ## Introducción
-El sistema Reespirator 23 cuenta con un interfaz de usuario táctil, simple y de sencillo
+El sistema Reespirator 2020 se puede construir en diferentes versiones.
+* Las últimas versiones cuentan con un interfaz de usuario táctil, simple y de sencillo
 manejo gracias a los botones de gran tamaño que permiten controlar los parámetros de
 operativa en las diferentes situaciones que así lo requieran.
+
+Pero también se puede construir utilizando uno o varios encoder y algunos botones dónde la opción de la pantalla sea más complicada de conseguir.
+
 Gracias a la orientación de la pantalla así como a la tonalidad y contraste empleados es
 posible supervisar el estado del paciente sin necesidad de estar muy cerca de este.
+
 En los siguientes apartados del presente documento se muestran en detalle las opciones de
 operativa de Reespirator 23.
-Interfaz de usuario
-Como se ha indicado en el apartado introductorio del presente documento, el interfaz de
-usuario de Reespirator 23 cuenta con una botonera de gran tamaño para permitir realizar
-las acciones que se requieran por el equipo médico. Adicionalmente, existen dos grandes
-apartados dentro de la ventana de trabajo:
+
+**Interfaz de usuario**
+
+Como se ha indicado en el apartado introductorio del presente documento, el interfaz de usuario de Reespirator 23 cuenta con una botonera de gran tamaño para permitir realizar las acciones que se requieran por el equipo médico. Adicionalmente, existen dos grandes apartados dentro de la ventana de trabajo:
+
 ● Visualización gráfica de estado, permite visualizar la progresión de los parámetros
 de flujo y presión del respirador.
 ● Ventana de información, muestra, dependiendo de la opción pulsada:
@@ -34,7 +39,7 @@ Documentación Técnica Reespirator 23 - v1.0
 Interfaz de Usuario de Reespirator 23 con información de trabajo
 Interfaz de Usuario de Reespirator 23 con parámetros de configuración
 19 de 25
-Documentación Técnica Reespirator 23 - v1.0
+
 Menú de navegación
 El menú de opciones de Reespirator 23 cuenta únicamente con dos botones de acción:
 ● INICIO: muestra los valores numéricos de presión, flujo y volumen en tiempo real.
