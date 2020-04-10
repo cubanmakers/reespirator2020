@@ -54,5 +54,8 @@ Insistimos en que este es el sistema utilizado en nuestro prototipo; pero se pod
 
 * Sensor de caudal Sensirion SFM3300-AW para la medición del caudal en el espacio muerto del sistema de ventilación. Al ser una pieza que estará en contacto con el circuito de inspiración del paciente, se emplea un sensor homologado para aplicaciones médicas. (Si este modelo no estuviera disponible se pueden buscar sustitutos y con pequeñas modificaciones del código se podrían utilizar igualmente).
 
+![Caudalímetro](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/SFM3200-AW_t.webp "Caudalímetro")
+
+
 * Sensor de presión diferencial para la diferencia de presión que existe entre el circuito inspiratorio y la presión ambiental. Se ha empleado el modelo ABPLANT001PG2A5 de Honeywell, que está homologado para aplicaciones médicas. (En versiones previas utilizamos 2 BME280 conectados por SPI). 
 	
