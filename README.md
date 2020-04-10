@@ -30,20 +30,20 @@ Antes de montar un respirador lea toda la documentación posible e infórmese bi
 
 
 ## [Estructura básica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/CASE.md)
-Reespirator 2020 consta de una caja diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato si bien la imagen anterior corresponde a la nueva evolución que podrá fabricarse también con chapa plegada.
+Reespirator 2020 consta de una [caja](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/CASE.md) diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato si bien la imagen anterior corresponde a la nueva evolución que podrá fabricarse también con chapa plegada.
 
 ## [Sistema neumático](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/NEUMATIC.md)
-Basado en un sistema Jackson-Rees, Reespirator 2020 utiliza una serie de válvulas, sensores de presión y caudal y tubuladuras para hacer llegar al aire a los pulmones del paciente.
+El [sistema neumático](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/NEUMATIC.md) del Reespirator 2020 está basado en un sistema Jackson-Rees. Reespirator 2020 utiliza además una serie de válvulas, sensores de presión y caudal y tubuladuras para hacer llegar al aire a los pulmones del paciente.
 
 ## [Mecánica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MECHANIC.md)
-El sistema mecánico pretende realizar los movimientos necesarios para realizar las maniobras de inspiración y espiración forzada del paciente mediante elementos mecánicos sustituyendo al personal humano que utilizaría el sistema de ventilación.
+El [sistema mecánico](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MECHANIC.md) pretende realizar los movimientos necesarios para realizar las maniobras de inspiración y espiración forzada del paciente mediante elementos mecánicos sustituyendo al personal humano que utilizaría el sistema de ventilación.
 
 ## [Electrónica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/ELECTRONICS.md)
-La electrónica de control gestiona el movimiento del motor y los sensores que permiten realizar un control de lazo cerrado automatizado del sistema.
+La [electrónica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/ELECTRONICS.md) de control gestiona el movimiento del motor y los sensores que permiten realizar un control de lazo cerrado automatizado del sistema.
 Además de la electrónica de control se emplea una electrónica adicional como interfaz de usuario que permite monitorizar diferentes señales del respirador y modificar en tiempo real diferentes configuraciones del mismo.
 
 ## [Firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md)
-El sistema de control necesita ser programado con un firmware que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
+El sistema de control necesita ser programado con un [firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md) que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
 
 ## Historia y principales cambios de esta versión
 
