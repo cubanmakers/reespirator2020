@@ -34,6 +34,6 @@ Las siguientes piezas del prototipo se han diseñado para su corte por láser en
 **![](https://lh6.googleusercontent.com/dhdhGPt7kWFuY6w82dX3QZBrO3eC6hOD1q7Yaf14-yLMN3yz7ofPO-w0ZQmLIwbdqoiMF6w1uzy0W5qdrDarwh5-mfR5U6mDl2fsKLTW85tEQi7qSAy5tx-1MFE-vKubh_peMuks)**
 
 * La versión de chapa plegada tiene el siguiente aspecto:
-![Diagrama de bloques](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/BMR_001_CARCASA_SUPERIOR_PARA_FABRICAR.jpg "Carcasa superior para fabricar")
+![Diagrama de bloques](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/BMR_001_CARCASA_SUPERIOR_PARA_FABRICAR.jpg "Carcasa superior para fabricar")
 
 Los archivos para su fabricación en distintos formatos se están publicando en el directorio files.
