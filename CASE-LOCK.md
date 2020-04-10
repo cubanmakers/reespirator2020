@@ -1,9 +1,22 @@
 ## Estructura básica en chapa plegada
 Reespirator 2020 puede fabricarse como ya hemos comentado en 2 versiones diferentes. 
-La caja puede fabricarse también de dos formas distintas mediante corte láser o fresado de metacrilato o madera y mediante plegado de chapa-
+La caja puede fabricarse también de dos formas distintas mediante corte láser o fresado de metacrilato o madera y mediante plegado de chapa.
+
+Los archivos para su fabricación mediante chapa plegada en distintos formatos se están publicando en el directorio [files](https://gitlab.com/reespirator/reespirator-doc/files "files").
 
 * La versión de chapa plegada de 1mm tiene el siguiente aspecto:
-![Diagrama de bloques](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/BMR_001_CARCASA_SUPERIOR_PARA_FABRICAR.jpg "Carcasa superior para fabricar")
 
-Los archivos para su fabricación en distintos formatos se están publicando en el directorio [files](https://gitlab.com/reespirator/reespirator-doc/files "files").
+![Carcasa superior](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/BMR_001_CARCASA_SUPERIOR_PARA_FABRICAR.jpg "Carcasa superior para fabricar")
+
+![Carcasa superior](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_002_tapaculo_para_fabricar.jpg "Carcasa superior para fabricar")
+
+![Anillo culo](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_003_anillo_culo_para_fabricar.jpg "Carcasa superior para fabricar")
+
+![Separador inferior](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_004_separador_inferior_para_fabricar.jpg "Carcasa superior para fabricar")
+
+![Separador superior](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_005_separador_superior_para_fabricar.jpg "Separador superior")
+
+![Laterales abatibles](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_006_lateralaes_abatibles_para_fabricar.jpg "Laterales abatibles")
+
+![Culo cubierta](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/chapa/bmr_007_culo_cubierta_para_fabricar.jpg "Culo cubierta")
 
