@@ -8,4 +8,4 @@ La configuración del TIA Portal para configurar el autómata y el HMI para su p
 
 ![Detalle del HMI](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Reespirator2020-HMI.jpg "Detalle del PLC")
 
-![Detalle de la conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Reespirator2020-PLC.jpg "Detalle de las conexiones entre el autómata y el HMI")
+![Detalle de la conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Reespirator2020-connect.jpg "Detalle de las conexiones entre el autómata y el HMI")
