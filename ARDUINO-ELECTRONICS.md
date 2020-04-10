@@ -22,7 +22,7 @@ Según este esquema podemos ver que el sistema electrónico está compuesto por:
 
 ## Etapa de alimentación:
 	* La conexión a la red eléctrica se realizará mediante un conector IEC-C14 con fusible e interruptor.
-	* Fuente de alimentación con entrada de 220Vac/50Hz y salida 24Vdc.
+	* La fuente de alimentación con entrada de 115-220V de corriente alterna de 50Hz/60Hz y salida 24Vdc.
 	* Regulador step-down (LM2596, por ejemplo), con salida de 12Vdc.
 
 {Insertar esquema de conexión}
@@ -36,15 +36,15 @@ Según este esquema podemos ver que el sistema electrónico está compuesto por:
 
 	* Para la señalización de alarmas, se dispondrá de un zumbador acústico activo.
 
-Insistimos en que este es el sistema utilizado en nuestro prototipo; pero se podría plantear la utilización de otros aunque caso de ser aprobado este no tendría la validación necesaria.
+> Insistimos en que este es el sistema utilizado en nuestro prototipo; pero se podría plantear la utilización de otros, aunque caso de ser aprobado este no tendría la validación necesaria en España.
 
 ## Sistema de actuación y sensorización
 
-* Se utilizarán motores NEMA, concretamente NEMA 24 que si bien no son tan comunes como los NEMA 23 dan un torque suficiente. En los prototipos hemos utilizado motores de 4,2N/m. En cualquier caso el uso de otro tipo de motores debe garantizar la suficiente presión sobre el globo del Jackson-Rees para producir el suficiente flujo ventilatorio.
+* Se utilizarán motores NEMA, concretamente NEMA 24 que si bien no son tan comunes como los NEMA 23 dan un par motor suficiente. En los prototipos hemos utilizado motores de 4 Newton metros. En cualquier caso el uso de otro tipo de motores debe garantizar la suficiente presión sobre el globo del Jackson-Rees para producir el suficiente flujo ventilatorio. (Se hicieron pruebas con nema 17 y no daban sufiente par motor, seguramente algunos nema 23 puedan ser suficiente).
 
 ![Nema 24](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Nema24.jpg "Motor Nema 24")
 
-* Los motores NEMA se controlarán con un driver HSS57. Se ha elegido este modelo ya que puede controlar tanto el NEMA24 como motores más pequeños sin necesidad de cambiar todo el hardware.
+* Los motores NEMA se controlarán con un driver para motores paso a paso que proporcione la intensidad suficiente para comandar el motor elegido. El modelo utilizado en el prototipo está en el siguiente esquemma, el ZDM-2HA865. Se ha elegido este modelo ya que puede controlar tanto el NEMA24 como motores más pequeños sin necesidad de cambiar todo el hardware.
 
 ![Esquema de conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/motor-driver.png "Esquema de conexión del driver y el motor paso a paso")
 
@@ -58,4 +58,6 @@ Insistimos en que este es el sistema utilizado en nuestro prototipo; pero se pod
 
 
 * Sensor de presión diferencial para la diferencia de presión que existe entre el circuito inspiratorio y la presión ambiental. Se ha empleado el modelo ABPLANT001PG2A5 de Honeywell, que está homologado para aplicaciones médicas. (En versiones previas utilizamos 2 BME280 conectados por SPI). 
-	
+
+En la tabla siguiente podemos ver el pinout utilizado en el prototipo:
+
