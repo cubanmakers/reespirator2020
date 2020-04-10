@@ -12,22 +12,22 @@ Actualmente, se está trabajando el diseño de un PCB específico que integre la
 El diagrama de bloques funcionales y elementos electrónicos del sistema se muestra en la siguiente figura:
 _PENDIENTE_
 
-##PLC##
+###PLC
 
 Según este esquema podemos ver que el sistema electrónico está compuesto por un autómata SIEMENS Simatic S7-1200 CPU 1512 al que se conectan los sensores y actuadores del sistema. Opcionalmente se puede suministrar la misma CPU en su versión SAFETY CAT-IV mejorando grandemente tiempo medio entre fallos (mtbf), que ya de por si es bajo.
 
 ![SIEMENS Simatic S7-1200](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/PLC-Simatic-S7.jpg "SIEMENS Simatic S7-1200")
 
-##Display táctil##
+###Display táctil
 
 Dispone de un display táctil SIEMENS TP700, con las siguientes capacidades: registro de alarmas, histórico de datos, monitorización remota con gestión de usuario y password para evitar accionamientos no autorizados. El gestor de accesos indica en la pantalla si se está operando sobre la pantalla en remoto. Dispone de una memoria SD para almacenamiento de datos de alarmas y datos de trabajo.
 
 ![SIEMENS TP700](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/PLC-TP700.jpg "SIEMENS TP700")
 
-## Etapa de alimentación:
+### Etapa de alimentación:
 El dispositivo está preparado para conectarse a la red eléctrica de 230Vac y utiliza una fuente de alimentación principal de baja tensión de 24V de corriente continua capaz de suministrar al menos 15A. Para mantener su funcionamiento en caso de fallo de la alimentación debe emplearse un SAI o bien solicitar alimentación auxiliar de 24Vdc.
 
-## Sistema de actuación y sensorización
+### Sistema de actuación y sensorización
 
 	* Se utilizarán motores NEMA, concretamente NEMA24.
 
