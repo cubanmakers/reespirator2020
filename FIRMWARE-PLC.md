@@ -15,3 +15,11 @@ La siguiente imagen muestra la configuración básica del HMI modelo TP700 utili
 En esta imagen mostramos la configuración de red utilizada para conectar el PLC y el HMI:
 
 ![Detalle de la conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Reespirator2020-connect.jpg "Detalle de las conexiones entre el autómata y el HMI")
+
+Las siguientes son alguana de las imágenes del software ejecutándose en el HMI:
+
+![Detalle de la conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Simatic-HMI-1.png "HMI 1")
+
+![Detalle de la conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Simatic-HMI-2.png "HMI 2")
+
+![Detalle de la conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Simatic-HMI-3.png "HMI 3")
