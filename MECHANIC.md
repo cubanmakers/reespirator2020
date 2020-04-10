@@ -9,8 +9,8 @@ La parte mecánica consta de:
 * Un balancín formado por 2 piezas de metacrilato de 4 mm. Dispone de un rodamiento 608ZZ, que entra en contacto con la leva y pivota sobre un tornillo M8 que lo ancla a la estructura de la caja, y en su parte final está fijado a una pala, impresa en 3D, con dos tornillos M5.
 * La carcasa, que contiene todo el dispositivo está fabricada en metacrilato de 10mm, dispone además de un embellecedor, cortado en láser de metacrilato de 4mm para protección mecánica.
 
-* Además, dispone de una [cuna](https://gitlab.com/reespirator/reespirator2020/-/blob/master/files/stl/Empujador_v3.stl "Cuna impresa en 3D para alojar el balón del Jackson-Rees") impresa en 3D donde se aloja el balón respirador de Jackson Rees.
+* Además, dispone de una [cuna](https://gitlab.com/reespirator/reespirator2020/-/blob/master/files/stl/cuna.stl "Cuna impresa en 3D para alojar el balón del Jackson-Rees") impresa en 3D donde se aloja el balón respirador de Jackson Rees.
 
-* El sistema utiiza también una [pala o empujador](https://gitlab.com/reespirator/reespirator2020/-/blob/master/files/stl/CUNA.stl "Cuna impresa en 3D para alojar el balón del Jackson-Rees") impresa en 3D que empuja el balón respirador para insuflar el aire al paciente. 
+* El sistema utiiza también una [pala o empujador](https://gitlab.com/reespirator/reespirator2020/-/blob/master/files/stl/empujador_v3.stl "Cuna impresa en 3D para alojar el balón del Jackson-Rees") impresa en 3D que empuja el balón respirador para insuflar el aire al paciente. 
 
-* Todo el sistema es impulsado por un motor paso a paso Nema 24 en este primer prototipo, controlado por el Arduino a través de un driver para el motor.
+Estas 2 piezas se imprimirán en la mayor calidad posible, pues ambas quedan en contacto con el globo y no deben tener fallos que puedan dañar el mismo.
