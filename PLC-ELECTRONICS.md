@@ -8,7 +8,7 @@ _PENDIENTE_
 
 ### PLC
 
-Según este esquema podemos ver que el sistema electrónico está compuesto por un autómata SIEMENS Simatic S7-1200 CPU 1512 al que se conectan los sensores y actuadores del sistema. Opcionalmente se puede suministrar la misma CPU en su versión SAFETY CAT-IV mejorando grandemente tiempo medio entre fallos (mtbf), que ya de por si es bajo.
+Según este esquema podemos ver que el sistema electrónico está compuesto por un autómata SIEMENS Simatic S7-1200 CPU 1215 al que se conectan los sensores y actuadores del sistema. Opcionalmente se puede suministrar la misma CPU en su versión SAFETY CAT-IV/SIL 3 mejorando grandemente tiempo medio entre fallos (mtbf), que ya de por si es bajo.
 
 ![SIEMENS Simatic S7-1200](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/PLC-Simatic-S7.jpg "SIEMENS Simatic S7-1200")
 
@@ -23,15 +23,22 @@ El dispositivo está preparado para conectarse a la red eléctrica de 110-230V d
 
 ### Sistema de actuación y sensorización
 
-* Se utilizarán motores NEMA, concretamente NEMA24.
+* Se utilizarán motores NEMA, concretamente NEMA 24 que si bien no son tan comunes como los NEMA 23 dan un torque suficiente. En los prototipos hemos utilizado motores de 4,2N/m. En cualquier caso el uso de otro tipo de motores debe garantizar la suficiente presión sobre el globo del Jackson-Rees para producir el suficiente flujo ventilatorio.
+
+![Nema 24](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Nema24.jpg "Motor Nema 24")
 
 * Los motores NEMA se controlarán con un driver HSS57. Se ha elegido este modelo ya que puede controlar tanto el NEMA24 como motores más pequeños sin necesidad de cambiar todo el hardware.
 
-* Para monitorizar la posición inicial del sistema, se utilizará un sensor de efecto hall.
+![Esquema de conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/motor-driver.png "Esquema de conexión del driver y el motor paso a paso")
 
-* Electroválvula para el control de salida de aire del sistema neumático.
+* Para monitorizar la posición inicial del sistema, se utilizará un sensor de efecto hall o un simple final de carrera, (aunque también se ha considerado la opción de un segundo sensor para evitar problemas).
 
-* Sensor de caudal Sensirion SFM3300-AW para la medición del caudal en el espacio muerto del sistema de ventilación. Al ser una pieza que estará en contacto con el circuito de inspiración del paciente, se emplea un sensor homologado para aplicaciones médicas.
+* Electroválvula de 24V para el control de salida de aire del sistema neumático, (en el prototipo original se utilizaron 2 porque eran de un diámetro demasiado pequeño como para permitir un caudal apropiado).
 
-* Sensor de presión diferencial para la diferencia de presión que existe entre el circuito inspiratorio y la presión ambiental. Se ha empleado el modelo ABPLANT001PG2A5 de Honeywell, que está homologado para aplicaciones médicas.
+* Sensor de caudal Sensirion SFM3300-AW para la medición del caudal en el espacio muerto del sistema de ventilación. Al ser una pieza que estará en contacto con el circuito de inspiración del paciente, se emplea un sensor homologado para aplicaciones médicas. (Si este modelo no estuviera disponible se pueden buscar sustitutos y con pequeñas modificaciones del código se podrían utilizar igualmente).
 
+![Caudalímetro](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/SFM3200-AW_t.webp "Caudalímetro")
+
+
+* Sensor de presión diferencial para la diferencia de presión que existe entre el circuito inspiratorio y la presión ambiental. Se ha empleado el modelo ABPLANT001PG2A5 de Honeywell, que está homologado para aplicaciones médicas. (En versiones previas utilizamos 2 BME280 conectados por SPI). 
+	
