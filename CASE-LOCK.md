@@ -3,7 +3,7 @@ Reespirator 2020 puede fabricarse como ya hemos comentado en 2 versiones diferen
 
 La caja puede fabricarse también de dos formas distintas mediante corte láser o fresado de metacrilato o madera y mediante plegado de chapa.
 
-Los archivos para su fabricación mediante chapa plegada en distintos formatos se están publicando en el directorio [files](https://gitlab.com/reespirator/reespirator-doc/files "files").
+Los archivos para su fabricación mediante chapa plegada en distintos formatos se están publicando en el directorio [/files/chapa](https://gitlab.com/reespirator/reespirator2020/-/tree/master/files/chapa "files/chapa").
 
 * La versión de chapa plegada de 1mm tiene el siguiente aspecto:
 
