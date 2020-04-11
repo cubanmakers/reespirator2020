@@ -15,9 +15,9 @@ La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo s
 ## Info
 *¿Qué es Reespirator 2020?*
 
-El dispositivo Reespirator 2020 es un sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de [Síndrome de Distrés Respiratorio Agudo](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_dificultad_respiratoria_aguda) o SDRA.
+El dispositivo Reespirator 2020 es un prototipo de sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de [Síndrome de Distrés Respiratorio Agudo](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_dificultad_respiratoria_aguda) o SDRA.
 
-Aunque el origen de Reespirator es España, debido a las regulaciones y validaciones necesarias para los productos médicos, y aunque hemos superado varias pruebas preclínicas con animales, y de compatibilidad electromagnética, suponemos que este dispositivo nunca se llegará a fabricar masivamente en España, dónde afortunadamente lo peor de la crisis del COVID-19 parece que ya ha pasado (08/04/20); pero esperamos que nuestro diseño pueda ser útil en otros países.
+Aunque el origen de Reespirator es España, debido a las regulaciones y validaciones necesarias para los productos médicos, y aunque Reespirator 23 de Reesistencia Team en el que se ha basado este nuevo diseño, ha superado varias pruebas preclínicas con animales, y de compatibilidad electromagnética, suponemos que este dispositivo nunca se llegará a fabricar masivamente en España, dónde afortunadamente lo peor de la crisis del COVID-19 parece que ya ha pasado (08/04/20); esperamos que este y otros diseños puedan ser útiles en otros países.
 
 Aún así no nos damos por vencidos y seguiremos desarrollando el proyecto al menos en 2 versiones:
 
