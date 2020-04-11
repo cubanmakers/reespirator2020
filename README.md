@@ -48,6 +48,9 @@ Además de la electrónica de control se emplea una electrónica adicional como 
 ## [Firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md)
 El sistema de control necesita ser programado con un [firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md) que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
 
+## [Manual de usuario](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MANUAL.md)
+El dispositivo Reespirator 2020 es un dispositivo médico y su uso sólo debe realizarse por personal especializado. Ofrecemos aquí un breve [manual de uso](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MANUAL.md) del mismo; pero es el personal sanitario el que sabe los parámetros que deben utilizarse para el tratamiento del paciente.
+
 ## Historia y principales cambios de esta versión
 
 El proyecto Reespirator2020 toma como punto de partida el proyecto Reespirator 23 (o 24) v3 de **Reesistencia Team** a partir del cual realizamos un fork.
