@@ -13,12 +13,12 @@ En el prototipo actual la conexión de los distintos elementos se ha realizado s
 Actualmente, se está trabajando el diseño de un PCB específico que integre la diversa electrónica que, en el prototipo, se ha realizado mediante módulos externos. Este desarrollo se irá liberando en el repositorio https://gitlab.com/reesistencia/reespirator-hardware
 
 El diagrama de bloques funcionales y elementos electrónicos del sistema se muestra en la siguiente figura:
-![Diagrama de bloques](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/diagrama-de-bloques.jpg "Diagrama de bloques")
+![Diagrama de bloques](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/diagrama-de-bloques.jpg "Diagrama de bloques")
 
 Según este esquema podemos ver que el sistema electrónico está compuesto por:
 
 ## Microcontrolador: se ha empleado un Arduino Mega 2560 Rev3
-![Arduino Mega](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/Arduino-mega.jpg "Arduino Mega")
+![Arduino Mega](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/Arduino-mega.jpg "Arduino Mega")
 
 ## Etapa de alimentación:
 	* La conexión a la red eléctrica se realizará mediante un conector IEC-C14 con fusible e interruptor.
