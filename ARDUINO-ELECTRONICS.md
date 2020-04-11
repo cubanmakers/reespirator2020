@@ -61,3 +61,13 @@ Según este esquema podemos ver que el sistema electrónico está compuesto por:
 
 En la tabla siguiente podemos ver el pinout utilizado en el prototipo:
 
+| USO                   |PIN |
+| --------------------- | -- |
+| PIN_STEPPER_STEP      |  6 |
+| PIN_STEPPER_DIRECTION |  7 | 
+| PIN_STEPPER_EN STEP   |  8 |
+| PIN_STEPPER_ALARM     |  3 | 
+| PIN_BUZZ              | 11 |
+| PIN_STEPPER_ENDSTOP   |  2 | 
+| PIN_SOLENOID          | 39 |
+| PIN_RELAY             | 25 | 
