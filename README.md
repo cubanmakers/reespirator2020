@@ -1,4 +1,4 @@
-# Reespirator 2020 Docs
+# Reespirator 2020
 
 Este repositorio pretende documentar y organizar los pasos para fabricar prototipos de  **Reespirator-2020**, un respirador open-source basado en el sistema de ventilación mecánica Jackson-Rees, diseñado y mejorado a partir de los prototipos elaborados por el equipo de Reesistencia Team para todas aquellas personas, organizaciones o empresas que quieran fabricarlo en cualquier parte del mundo.  
 
