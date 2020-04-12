@@ -3,14 +3,14 @@
 Este repositorio pretende documentar y organizar los pasos para fabricar prototipos de  **Reespirator-2020**, un respirador open-source basado en el sistema de ventilación mecánica Jackson-Rees, diseñado y mejorado a partir de los prototipos elaborados por el equipo de Reesistencia Team para todas aquellas personas, organizaciones o empresas que quieran fabricarlo en cualquier parte del mundo.  
 
 
-> ESTA DOCUMENTACIÓN ESTÁ EN ELABORACIÓN, COMPRUEBE REGULARMENTE LOS CAMBIOS, LAS PRIMERAS VERSIONES PUBLICADAS ESTÁN DESACTUALIZAS. 
+> ESTA DOCUMENTACIÓN ESTÁ EN ELABORACIÓN, COMPRUEBE REGULARMENTE LOS CAMBIOS, LAS PRIMERAS VERSIONES PUBLICADAS ESTÁN DESACTUALIZADAS. 
 
 
 
 ## Disclaimer
 *Recuerde que un respirador es un dispositivo médico que sólo puede ser utilizado por personal cualificado y que un mal respirador o un respirador mal utilizado puede matar.*
 
-La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo se publica para que se pueda fabricar PROTOTPOS para investigación. 
+La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo se publica para que se pueda fabricar PROTOTIPOS para investigación. 
 
 ## Info
 *¿Qué es Reespirator 2020?*
@@ -64,4 +64,4 @@ En esta nueva versión se incluyen principalmente los siguientes cambios:
 
 ## Repositorio temporal de trabajo para el código de Reespirator2020
 
-El siguiente repositorio se está utilizando como fork de trabajo para transformar el código de Respirator 23 (o 24) v3 (cuyo código se ha denominado 'batalla') en el código estable que se usará en Respirator 2020 de arduino, cuyo código se ha denominado ['retaguardia'](https://gitlab.com/reespirator-arduino).
+El siguiente repositorio se está utilizando como fork de trabajo para transformar el código de Respirator 23 (o 24) v3 de Reesistencia Team (cuyo código se denominó 'batalla') en el código estable que se usará en Respirator 2020 de arduino, cuyo código se denominó  ['retaguardia'](https://gitlab.com/reespirator-arduino).
