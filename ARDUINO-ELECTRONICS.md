@@ -8,35 +8,42 @@ La electrónica de control gestiona el movimiento del motor y los sensores que p
 * Estamos trabajando también en una versión basada en un autómata o PLC que fundamentalmente ha permitido realizar una correcta modelización del sistema.
 
 En el prototipo actual la conexión de los distintos elementos se ha realizado sobre una shield de prototipado o breakout pero se está diseñando también una shield específica con los elementos necesarios para un ensamblado rápido de toda la electrónica, de forma que sólo sea necesario conectar los elementos sensores y actuadores mediante conectores.
-En el prototipo actual la conexión de los distintos elementos se ha realizado sobre una shield de prototipado o breakout pero se está diseñando también una shield específica con los elementos necesarios para un ensamblado rápido de toda la electrónica, de forma que sólo sea necesario conectar los elementos sensores y actuadores mediante conectores.
 
 Actualmente, se está trabajando el diseño de un PCB específico que integre la diversa electrónica que, en el prototipo, se ha realizado mediante módulos externos. Este desarrollo se irá liberando en el repositorio https://gitlab.com/reesistencia/reespirator-hardware
 
-El diagrama de bloques funcionales y elementos electrónicos del sistema se muestra en la siguiente figura:
+## Diagrama de Bloques del Sistema ##
+En la siguiente figura se muestra de forma genérica el diagrama de bloques funcionales y elementos electrónicos del sistema:
 ![Diagrama de bloques](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/diagrama-de-bloques.jpg "Diagrama de bloques")
 
-Según este esquema podemos ver que el sistema electrónico está compuesto por:
+Según este esquema se puede observar que el sistema electrónico está compuesto por los siguientes bloques:
 
-## Microcontrolador: se ha empleado un Arduino Mega 2560 Rev3
+## Microcontrolador: 
+Se ha empleado un Arduino Mega 2560 Rev3
 ![Arduino Mega](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/Arduino-mega.jpg "Arduino Mega")
 
 ## Etapa de alimentación:
+Encargada de suministrar la energía necesaria para que todo el equipo funcione, está formada por los siguientes elementos:
 	* La conexión a la red eléctrica se realizará mediante un conector IEC-C14 con fusible e interruptor.
 	* La fuente de alimentación con entrada de 115-220V de corriente alterna de 50Hz/60Hz y salida 24Vdc.
-	* Regulador step-down (LM2596, por ejemplo), con salida de 12Vdc.
-
+	* Regulador step-down con salida de 5Vdc.
+	
 {Insertar esquema de conexión}
 
 
-## Interfaz hombre-máquina:
+## Interfaz hombre-máquina: 
+Permite la interacción entre el sistema y el usuario, mostrando la información necesaria o permitiendo actuar sobre los parámetros configurables. Para llevar a cabo esta tarea, la electrónica se ha diseñado para ofrecer dos formas principales de interacción con el usuario y que se describen a continuación: 
+1. Interfaz de usuario básica: esta interfaz de usuario es la que se encuentra integrada en el diseño de la placa de la electrónica principal y que permitiría visualizar los parámetros básicos en un display sencillo (LCD 20x4), así como interactuar con el sistema.
+2. Interfaz de usuario adicional, también denominada *Display+*: esta interfaz ajena a la placa principal, se comunicará con ésta para mostrar las gráficas o datos del sistema, de modo que el usuario final puede disponer de una interfaz de representación o visualización más completa. 
 
-	* PC embebido BeagleBone Black, que dispone de un procesador AM325x 1GHz Cortex A8, con 4GB de memoria flash y 512MB de memoria RAM DDR3.
+![Posibles Interfaces](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/interfaz_arduino_hm.png "Posibles Interfaces")
 
-	* Pantalla TFT táctil de 7 pulgadas, con conexión HDMI, del fabricante ShareWave y resolución 800x480.
+Un ejemplo de este último sistema es con el que se han realizado las pruebas y que ha estado constituido por los siguientes elementos.
 
-	* Para la señalización de alarmas, se dispondrá de un zumbador acústico activo.
+* PC embebido BeagleBone Black, que dispone de un procesador AM325x 1GHz Cortex A8, con 4GB de memoria flash y 512MB de memoria RAM DDR3.
+* Pantalla TFT táctil de 7 pulgadas, con conexión HDMI, del fabricante ShareWave y resolución 800x480.
+* Para la señalización de alarmas, se dispondrá de un zumbador acústico activo.
 
-> Insistimos en que este es el sistema utilizado en nuestro prototipo; pero se podría plantear la utilización de otros, aunque caso de ser aprobado este no tendría la validación necesaria en España.
+**Se insiste en que este es el sistema utilizado en el prototipo; pero se podría plantear la utilización de otros, aunque caso de ser aprobado este no tendría la validación necesaria en España.** 	
 
 ## Sistema de actuación y sensorización
 
@@ -71,3 +78,8 @@ En la tabla siguiente podemos ver el pinout utilizado en el prototipo:
 | PIN_STEPPER_ENDSTOP   |  2 | 
 | PIN_SOLENOID          | 39 |
 | PIN_RELAY             | 25 | 
+
+
+## Diseño de la Electrónica Principal ##
+
+El diseño electrónico de la placa principal, se ha dividido en diferentes secciones atendiendo a las especificaciones y requerimientos hardware indicados anteriormente en el [Repositorio](https://gitlab.com/reesistencia/reespirator-hardware "Repositorio Hardware"). Para acceder a una descripción de cada una de estas partes, seguir el siguiente enlace.
